@@ -75,7 +75,7 @@ export default function SingleNightDaisy() {
 
       {/* Romantic Greeting Text at Top */}
       <div 
-        className="absolute top-[10%] sm:top-[12%] md:top-[18%] w-full flex justify-center z-40 px-4 transition-all duration-[2000ms] ease-out pointer-events-none"
+        className="absolute top-[20%] sm:top-[22%] md:top-[28%] w-full flex justify-center z-40 px-4 transition-all duration-[2000ms] ease-out pointer-events-none"
         style={{
           opacity: bloomed ? 1 : 0,
           transform: `translateY(${bloomed ? 0 : '25px'})`,
@@ -83,7 +83,7 @@ export default function SingleNightDaisy() {
         }}
       >
         <h1 className="text-2xl sm:text-3xl md:text-5xl font-serif text-amber-50 drop-shadow-[0_0_20px_rgba(255,255,255,0.7)] tracking-wide text-center italic">
-          Good evening, my love ✨
+          Good evening, Love ko, Try tapping po yung center ng daisy po
         </h1>
       </div>
 
@@ -278,11 +278,11 @@ export default function SingleNightDaisy() {
                 <h2 className="text-lg sm:text-2xl font-serif text-slate-800 mb-2 sm:mb-4 font-semibold italic text-center text-rose-950">I'm sorry...</h2>
                 <div className="w-full">
                     <p className="text-[12px] sm:text-[14px] md:text-base font-serif text-slate-700 leading-relaxed mb-2 sm:mb-4 text-center">
-                        I am writing this because I am genuinely sorry to have offended and disappointed you. 
-                        I realize that my actions were wrong, and it truly breaks my heart knowing that I caused you hurt.
+                        I am writing/creating this because I am genuinely sorry po love to have offended and disappointed you. 
+                        I realize po that my actions/words were wrong, and it truly affect me like I dont want to hurt you in every way possible po pero nagawa ko huhuhhuhu.
                     </p>
                     <p className="text-[12px] sm:text-[14px] md:text-base font-serif text-slate-700 leading-relaxed text-center">
-                        I value you and our connection way too much to lose it over this. Please find it in your entire heart to forgive me. I promise to step up, make it up to you, and be better.
+                        I'm sorry loveee, I value you and our connection/relationship we have now way too much po, na i dont want na may magbago po sa kung anong meron tayo lovee ko, I'm sorry and hindi na po mauulit love, never po and ahmmm can I have your forgiveness love ko po?.
                     </p>
                 </div>
                 
